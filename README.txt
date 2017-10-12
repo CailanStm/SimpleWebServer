@@ -1,8 +1,6 @@
 Simple Web Server
 Developed for CSC 361 at UVic by:
 Cailan St Martin
-V00826057
-Lab section B03
 February 2017
 
 Building the code:
